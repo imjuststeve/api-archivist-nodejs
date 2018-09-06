@@ -1,0 +1,16 @@
+type Account {
+  address: String,
+  name: String,
+  nodes: [Node]
+}
+
+type Node {
+  address: String,
+  type: String
+}
+
+type Query {
+  account(address: String): Account,
+  node(address: String): Node,
+  nodes(account: String): [Node]
+}
