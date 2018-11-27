@@ -916,9 +916,9 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
 
-ethers@^4.0.4:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/ethers/-/ethers-4.0.4.tgz#d3f85e8b27f4b59537e06526439b0fb15b44dc65"
+ethers@^4.0.14:
+  version "4.0.14"
+  resolved "https://registry.yarnpkg.com/ethers/-/ethers-4.0.14.tgz#b36f7d1734c5291cc0c640a47bbad3480d346c3f"
   dependencies:
     "@types/node" "^10.3.2"
     aes-js "3.0.0"
